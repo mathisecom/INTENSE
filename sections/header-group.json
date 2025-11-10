@@ -27,11 +27,19 @@
             "text": "Free Discreet & Tracked Shipping",
             "url": ""
           }
+        },
+        "message_ft7rbE": {
+          "type": "message",
+          "settings": {
+            "text": "6,380+ Satisfied Customers",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_KNxNxd"
+        "message_KNxNxd",
+        "message_ft7rbE"
       ],
       "settings": {
         "enable_sticky": false,
