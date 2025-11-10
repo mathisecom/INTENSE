@@ -511,8 +511,8 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
+        "testimonial_card_background": "#fffcfc",
+        "testimonial_card_text_color": "#880d1e"
       }
     },
     "faq_YJ8XRG": {
