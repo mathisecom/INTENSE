@@ -410,7 +410,7 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#dd2d4a",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -427,6 +427,22 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "scrolling_text_F9Qij8": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "rich_text_zWJAmH": {
@@ -577,6 +593,7 @@
     "featured_product_wL3yJK",
     "press_gN876y",
     "media_with_text_fRXr3d",
+    "scrolling_text_F9Qij8",
     "rich_text_zWJAmH",
     "testimonials_MKC9GN",
     "faq_YJ8XRG"
