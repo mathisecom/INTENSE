@@ -118,32 +118,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_nhrzdV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_AQfnUR": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_AQfnUR"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_JcW7kt": {
       "type": "multi-column",
       "blocks": {
@@ -213,7 +187,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
+        "title": "Our Customers Say It Best",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -410,7 +384,7 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#dd2d4a",
+            "background": "#880d1e",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -588,7 +562,6 @@
   "order": [
     "slideshow_x3WcRL",
     "logo_list_Wn4EUN",
-    "rich_text_nhrzdV",
     "multi_column_JcW7kt",
     "featured_product_wL3yJK",
     "press_gN876y",
