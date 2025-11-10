@@ -50,6 +50,61 @@
         "background_gradient": ""
       }
     },
+    "logo_list_Wn4EUN": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_U7kw9y": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_JdkDC6": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_rMf43y": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Y4aDUH": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_U7kw9y",
+        "logo_JdkDC6",
+        "logo_rMf43y",
+        "logo_Y4aDUH"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>AS SEE ON</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_wL3yJK": {
       "type": "featured-product",
       "blocks": {
@@ -131,6 +186,7 @@
   },
   "order": [
     "slideshow_x3WcRL",
+    "logo_list_Wn4EUN",
     "featured_product_wL3yJK"
   ]
 }
