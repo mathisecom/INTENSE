@@ -20,10 +20,18 @@
             "text": "✦ Black Friday Sale: Shop Now ✦",
             "url": ""
           }
+        },
+        "message_KNxNxd": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_KNxNxd"
       ],
       "settings": {
         "enable_sticky": false,
