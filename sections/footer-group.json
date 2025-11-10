@@ -110,7 +110,7 @@
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
@@ -126,7 +126,7 @@
         "show_country_selector": false,
         "show_country_flag": false,
         "show_country_name": false,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
