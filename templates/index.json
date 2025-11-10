@@ -163,9 +163,12 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_qNcYc7": {
-          "type": "pickup_availability",
-          "settings": {}
+        "liquid_bFxBh6": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"qa-feature-feature_GpzCKz rte\">\n    <img src=\"//vitaxe.co/cdn/shop/files/money_back_red_600x.png?v=1754598360\" width=\"100\" height=\"100\"><div style=\"text-align: left;\">\n    <h4>\n      <span class=\"lumin-text__fancy1\"><strong>30-Day Money Back Guarantee</strong></span>\n    </h4>\n    <p><strong>Try it risk-free! </strong>If you’re not satisfied within 30 days, we’ll make it right — <span class=\"lumin-text__fancy2\"><em><strong>no questions asked.</strong></em></span></p>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -175,7 +178,7 @@
         "variant_picker_MRQfmM",
         "quantity_selector_BjFj3t",
         "buy_buttons_9xqqYd",
-        "pickup_availability_qNcYc7"
+        "liquid_bFxBh6"
       ],
       "name": "Featured product",
       "settings": {
