@@ -299,12 +299,11 @@
         },
         "collapsible_text_crq3ae": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p><strong>BeIntense™ Cushion</strong> is made from high-quality memory foam with a hypoallergenic bamboo cover. Its <strong>scientifically proven 27° ergonomic</strong> angle naturally follows the female anatomy and helps relieve back pain.</p><p><strong>Dimensions: 60 × 30 × 15 cm – Weight: 1.2 kg</strong> – Color : elegant anthracite gray that blends seamlessly into any interior. With firm, non-slip support, it always stays perfectly in place.</p><p>Designed to enhance intimate comfort, promote a natural experience, and transform your intimacy without compromise.</p><p><strong>The cover is removable and machine washable.</strong></p><p>Crafted from <strong>durable materials</strong> built to last for many years.</p>",
             "page": ""
           }
         },
@@ -418,6 +417,7 @@
         "image_VNxxPL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/111411bdb2cd461bbf19802b0c391261.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
