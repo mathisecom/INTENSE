@@ -237,8 +237,15 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_bf3czc\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <br>\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_GLdmax\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"product-info__block-item\" data-block-id=\"liquid_hJEXYc\" data-block-type=\"liquid\">\n          <div class=\"product-info__liquid\">\n            <div class=\"product-info__block-item\" data-block-id=\"liquid_PQDhFd\" data-block-type=\"liquid\">\n              <div class=\"product-info__liquid\">\n\n                <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\">\n                  <div style=\"flex-shrink: 0;\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0708/9065/1846/files/70bf3da9-4444-4e2f-b4e0-2bbfb89d3c2f_40x_7ca4356b-7a98-4054-940f-b8b4ccbb9d9b.webp?v=1762880972\" \n                         alt=\"Profile Picture\" \n                         style=\"border-radius: 50%; width: 45px; height: 45px; object-fit: cover;\">\n                  </div>\n                  <div style=\"margin-left: 10px;\">\n                    <p style=\"font-style: italic; font-size: 10px; margin: 5px 0;\">\n                      \"I’ve recommended ergonomic support for couples for years, but Arcova finally got it right. The 27° angle eases pressure exactly where it’s needed — my patients say it’s made a real difference, and that’s what matters most.\"\n                    </p>\n                    <div style=\"display: flex; align-items: center;\">\n                      <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 15px; height: 15px; margin-right: 5px;\">\n                      <span>Dr. Martinez</span>\n                    </div>\n                  </div>\n                </div>\n\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<!-- <div class=\"richtext-product-description2\">\n<p>*Our visuals are illustrative: each product retains its design and quality, with occasional subtle variations between batches.</p>\n</div> -->\n\n<style>\n/* Optional styling cleanup\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n} */\n</style>"
           }
         },
+        "text_etDRqT": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Intense Sweet Spot-Pillow</h2>"
+          }
+        },
         "title_bhRipk": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h2"
           }
@@ -324,6 +331,7 @@
       "block_order": [
         "liquid_XrLAfV",
         "liquid_MwLtdj",
+        "text_etDRqT",
         "title_bhRipk",
         "liquid_DDYcXP",
         "liquid_tNQcdJ",
