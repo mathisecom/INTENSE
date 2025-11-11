@@ -305,6 +305,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/Titre.png",
             "icon_width": 20,
             "title": "Shipping Information",
             "content": "<p>Order Today, Shipped Tomorrow. Delivery in <strong>5-7 Days</strong> with Tracking.</p>",
