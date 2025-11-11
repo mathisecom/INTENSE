@@ -692,23 +692,20 @@
       "blocks": {
         "list_item_3T98MW": {
           "type": "list_item",
-          "disabled": true,
           "settings": {
-            "text": "Fall asleep quicker"
+            "text": "Confidence Restored"
           }
         },
         "list_item_wygPE3": {
           "type": "list_item",
-          "disabled": true,
           "settings": {
-            "text": "Relax & Restorative sleep"
+            "text": "Passion Rekindled"
           }
         },
         "list_item_YPLpRa": {
           "type": "list_item",
-          "disabled": true,
           "settings": {
-            "text": "Wake up refreshed"
+            "text": "Effortless Connection"
           }
         },
         "list_item_YjDCWg": {
@@ -777,7 +774,7 @@
         "table_row_WBxP48": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Perfect for relaxing, stretching, or reading",
+            "row_heading": "Great for relaxing or stretching",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -809,7 +806,7 @@
         "heading": "<p>The Difference That <em><strong>Changes Everything</strong></em></p>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
-        "heading_size": 32,
+        "heading_size": 40,
         "heading_size_mobile": 28,
         "heading_height": 130,
         "text": "",
@@ -887,12 +884,12 @@
         "table_row_text_size_mobile": 16,
         "table_row_text_height": 150,
         "table_row_text_align": "center",
-        "table_row_image_size": 24,
-        "table_row_image_size_mobile": 24,
+        "table_row_image_size": 28,
+        "table_row_image_size_mobile": 28,
         "heading_color": "#000000",
         "text_color": "#000000",
-        "icon_color": "#121212",
-        "list_text_color": "#121212",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
         "button_color": "#FFFFFF",
         "button_hover_color": "#dad0ff",
         "button_bg_color": "#16142B",
@@ -903,20 +900,20 @@
         "table_row_active_text_color": "#FFFFFF",
         "table_heading_bg_active_color": "#880d1e",
         "table_column_active_bg_color": "#880d1e",
-        "table_active_border_color": "#DAD0FF",
-        "table_heading_color": "#1A192E",
-        "table_row_heading_color": "#1A192E",
-        "table_row_text_color": "#1A192E",
-        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#880d1e",
+        "table_heading_color": "#000000",
+        "table_row_heading_color": "#000000",
+        "table_row_text_color": "#000000",
+        "table_border_color": "#000000",
         "background_color": "#fffcfc",
         "background_gradient": "",
-        "border_color": "#121212",
+        "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
         "margin_horizontal": 0,
         "margin_horizontal_mobile": 0,
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 44,
+        "padding_bottom": 44,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": false,
