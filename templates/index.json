@@ -389,6 +389,7 @@
         },
         "image_r47WAp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/8_b8b9ed3d-bb55-44d8-af9e-978bd2eae634.webp",
             "url": ""
