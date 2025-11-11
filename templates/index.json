@@ -126,8 +126,8 @@
           "settings": {
             "image": "shopify://shop_images/33_dca7c53a-6c0b-4ccb-917c-7a66ee74ec5a.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
+            "title": "Anne & Lucas",
+            "heading_tag": "h3",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
@@ -139,8 +139,8 @@
           "settings": {
             "image": "shopify://shop_images/14_9b3e77db-644f-4cbd-bfbe-44a94e150bb7.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
+            "title": "Élodie & Thomas",
+            "heading_tag": "h3",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
@@ -152,8 +152,8 @@
           "settings": {
             "image": "shopify://shop_images/8_b8b9ed3d-bb55-44d8-af9e-978bd2eae634.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
+            "title": "Claire & Martin",
+            "heading_tag": "h3",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
@@ -165,8 +165,8 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
+            "title": "Laura & Jonas",
+            "heading_tag": "h3",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
