@@ -118,6 +118,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_wVGKYM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cE7byB": {
+          "type": "heading",
+          "settings": {
+            "text": "Before / After the BeIntense™ Pillow",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cE7byB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_JcW7kt": {
       "type": "multi-column",
       "blocks": {
@@ -217,32 +243,6 @@
         "subheading": "",
         "title": "Our Customers Say It Best",
         "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_wVGKYM": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_cE7byB": {
-          "type": "heading",
-          "settings": {
-            "text": "Before / After the BeIntense™ Pillow",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_cE7byB"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1283,9 +1283,9 @@
   "order": [
     "slideshow_x3WcRL",
     "logo_list_Wn4EUN",
-    "multi_column_JcW7kt",
     "rich_text_wVGKYM",
     "slideshow_PgMBTJ",
+    "multi_column_JcW7kt",
     "featured_product_wL3yJK",
     "ss_scrolling_logo_cloud_4_CrtiPH",
     "press_gN876y",
