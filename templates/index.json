@@ -377,28 +377,28 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Alex J.",
+            "content": "\"Absolutely amazing! Perfect support and no more back pain during intimacy.\"",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_rUnQfC": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Liam B.",
+            "content": "\"The foam is firm yet comfortable, keeps its shape, and the cover is washable. Love it!\"",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_qVeiaJ": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Anna G.",
+            "content": "\"A real game changer for anyone with hip or back pain. Makes everything so much easier.\"",
             "show_rating": true,
             "rating": 4
           }
@@ -407,8 +407,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Louise K.",
+            "content": "\"Finally, a pillow that actually works! We feel closer and more comfortable exploring new positions.\"",
             "show_rating": true,
             "rating": 4
           }
