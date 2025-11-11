@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Contact US",
-            "content": "<p>hello@be-intense.com</p>",
+            "content": "<p>hello@be-intense.com</p><p><strong>Opening Hours:</strong> Mon–Fri 9:00 AM–12:00 PM & 2:00 PM–6:00 PM / Sat & Sun 10:00 AM–12:00 PM</p>",
             "enable_follow_on_shop": false
           }
         }
