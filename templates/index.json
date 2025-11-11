@@ -389,7 +389,6 @@
         },
         "image_r47WAp": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/8_b8b9ed3d-bb55-44d8-af9e-978bd2eae634.webp",
             "url": ""
@@ -412,7 +411,7 @@
         "image_6XcGpt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Schermafbeelding_2025-09-26_om_10.05.01.webp",
+            "image": "shopify://shop_images/Titre_4.jpg",
             "url": ""
           }
         }
@@ -426,11 +425,95 @@
       ],
       "name": "SS - Scrolling logo cloud #4",
       "settings": {
-        "scrolling_velocity": 30,
-        "scrolling_velocity_mobile": 34,
+        "scrolling_velocity": 24,
+        "scrolling_velocity_mobile": 20,
         "scrolling_direction": "left",
         "pause_hover": false,
-        "scrolling_gap": 24,
+        "scrolling_gap": 14,
+        "scrolling_gap_mobile": 16,
+        "card_width_desktop": 210,
+        "card_width_mobile": 190,
+        "card_padding_horizontal": 0,
+        "card_padding_horizontal_mobile": 0,
+        "card_padding_vertical": 40,
+        "card_padding_vertical_mobile": 24,
+        "card_radius": 0,
+        "card_border_thickness": 0,
+        "card_shadow": false,
+        "edge_blur_width": 17,
+        "edge_blur_intensity": 30,
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "background_color": "#FFFFFF",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "ss_scrolling_logo_cloud_4_hmxgzm": {
+      "type": "ss-scrolling-logo-cloud-4",
+      "blocks": {
+        "image_RiNTG8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/33_dca7c53a-6c0b-4ccb-917c-7a66ee74ec5a.webp",
+            "url": ""
+          }
+        },
+        "image_qyxLCh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/8_b8b9ed3d-bb55-44d8-af9e-978bd2eae634.webp",
+            "url": ""
+          }
+        },
+        "image_zQgeDx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
+            "url": ""
+          }
+        },
+        "image_QzdMQL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Schermafbeelding_2025-09-25_om_10.48.13.webp",
+            "url": ""
+          }
+        },
+        "image_QGaMLG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_4.jpg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RiNTG8",
+        "image_qyxLCh",
+        "image_zQgeDx",
+        "image_QzdMQL",
+        "image_QGaMLG"
+      ],
+      "name": "SS - Scrolling logo cloud #4",
+      "settings": {
+        "scrolling_velocity": 24,
+        "scrolling_velocity_mobile": 20,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 14,
         "scrolling_gap_mobile": 16,
         "card_width_desktop": 210,
         "card_width_mobile": 190,
@@ -918,6 +1001,7 @@
     "text_with_icons_TeLicd",
     "scrolling_text_F9Qij8",
     "media_with_text_q7FD6i",
+    "ss_scrolling_logo_cloud_4_hmxgzm",
     "rich_text_zWJAmH",
     "testimonials_MKC9GN",
     "faq_YJ8XRG"
