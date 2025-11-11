@@ -529,7 +529,7 @@
           "settings": {
             "text": "+6,380 Satisfied Couples",
             "heading_tag": "h2",
-            "text_color": "",
+            "text_color": "#880d1e",
             "gradient": ""
           }
         }
@@ -542,7 +542,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#fffcfc",
         "background_gradient": "",
         "text_color": ""
       }
@@ -622,7 +622,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#fffcfc",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
