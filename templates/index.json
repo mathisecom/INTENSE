@@ -423,16 +423,16 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
+            "title": "Positions you once thought impossible… are finally within reach.",
+            "content": "<p>The <strong>BeIntense™ Cushion</strong> frees your movement, gently corrects body angles, and makes every position feel smooth and natural. Intense missionary, effortless riding, comfortable 69, pain-free side positions… and that’s just the beginning.</p><p>With our exclusive <strong>50-Position E-Book</strong>, you’ll discover even more ways to surprise your partner and reignite the spark.</p>",
+            "link_text": "BUY NOW",
             "link_url": "",
             "background": "#880d1e",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a"
           }
         }
       },
@@ -441,9 +441,9 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
-        "spacing": "small"
+        "spacing": "none"
       }
     },
     "media_with_text_q7FD6i": {
