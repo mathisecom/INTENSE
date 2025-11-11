@@ -222,6 +222,73 @@
         "text_color": ""
       }
     },
+    "rich_text_wVGKYM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cE7byB": {
+          "type": "heading",
+          "settings": {
+            "text": "Before / After the BeIntense™ Pillow",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cE7byB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_PgMBTJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_P6UdnF": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_P6UdnF"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "featured_product_wL3yJK": {
       "type": "featured-product",
       "blocks": {
@@ -1217,6 +1284,8 @@
     "slideshow_x3WcRL",
     "logo_list_Wn4EUN",
     "multi_column_JcW7kt",
+    "rich_text_wVGKYM",
+    "slideshow_PgMBTJ",
     "featured_product_wL3yJK",
     "ss_scrolling_logo_cloud_4_CrtiPH",
     "press_gN876y",
