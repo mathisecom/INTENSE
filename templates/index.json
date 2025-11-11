@@ -262,6 +262,12 @@
             "text": "<p><strong>Transform intimate moments naturally without expensive therapy or equipment.</strong></p>"
           }
         },
+        "liquid_3iFGEQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_JmTaC7\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div id=\"shopify-block-AbnNTSktUa2JRYy81U__ai_gen_block_1103b2d_rTFQ8L\" class=\"shopify-block\">\n\n\n\n<style data-shopify=\"\">\n  .ai-stock-status-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    font-family: \n\nPlus Jakarta Sans\n, sans-serif;\n    font-size: 12px;\n    line-height: 1.2;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    flex-shrink: 0;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out {\n    background-color: #ff8c00;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--out-of-stock {\n    background-color: #dc2626;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--in-stock {\n    background-color: #16a34a;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    margin: 0;\n    font-weight: 500;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out {\n    color: #ff8c00;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--out-of-stock {\n    color: #dc2626;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--in-stock {\n    color: #16a34a;\n  }\n\n  @keyframes ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    0% {\n      opacity: 1;\n      transform: scale(1);\n    }\n    50% {\n      opacity: 0.5;\n      transform: scale(0.9);\n    }\n    100% {\n      opacity: 1;\n      transform: scale(1);\n    }\n  }\n</style>\n\n<div class=\"ai-stock-status-abnntsktua2jryy81uaigenblock1103b2drtfq8l\">\n  \n      <div class=\"ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out\"></div>\n      <span class=\"ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out\">Almost out of stock</span>\n    \n</div>\n\n</div>\n            </div></div>"
+          }
+        },
         "liquid_tNQcdJ": {
           "type": "liquid",
           "settings": {
@@ -341,6 +347,7 @@
         "title_bhRipk",
         "liquid_DDYcXP",
         "text_iDgVz9",
+        "liquid_3iFGEQ",
         "liquid_tNQcdJ",
         "price_JikyDK",
         "buy_buttons_9xqqYd",
@@ -469,6 +476,83 @@
         "spacing": "none"
       }
     },
+    "text_with_icons_TeLicd": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_fRxcim": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_f7NxJ9": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_kaqraq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fRxcim",
+        "item_f7NxJ9",
+        "item_kaqraq"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_text_F9Qij8": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#fffcfc",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_q7FD6i": {
       "type": "media-with-text",
       "blocks": {
@@ -503,22 +587,6 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
-      }
-    },
-    "scrolling_text_F9Qij8": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "rich_text_zWJAmH": {
@@ -747,8 +815,9 @@
     "featured_product_wL3yJK",
     "press_gN876y",
     "media_with_text_fRXr3d",
-    "media_with_text_q7FD6i",
+    "text_with_icons_TeLicd",
     "scrolling_text_F9Qij8",
+    "media_with_text_q7FD6i",
     "rich_text_zWJAmH",
     "testimonials_MKC9GN",
     "faq_YJ8XRG"
