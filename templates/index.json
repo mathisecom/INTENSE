@@ -486,7 +486,7 @@
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fffcfc",
             "icon_color": "",
             "title": "Free shipping",
             "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
@@ -499,7 +499,7 @@
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fffcfc",
             "icon_color": "",
             "title": "Customer service",
             "content": "<p>We are available from monday to friday to answer your questions.</p>"
@@ -512,7 +512,20 @@
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fffcfc",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item_mYKd7E": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fffcfc",
             "icon_color": "",
             "title": "Secure payment",
             "content": "<p>Your payment information is processed securely.</p>"
@@ -522,7 +535,8 @@
       "block_order": [
         "item_fRxcim",
         "item_f7NxJ9",
-        "item_kaqraq"
+        "item_kaqraq",
+        "item_mYKd7E"
       ],
       "name": "Text with icons",
       "settings": {
