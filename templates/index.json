@@ -256,6 +256,12 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Pm9CkG\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"product-info__block-item\" data-block-id=\"liquid_Dk6a4W\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_Rqct6c\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\" style=\"padding-top: 0;\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n              <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stars\" width=\"63\" height=\"13\">\n                <span class=\"text-size\">Rated <b>4.8/5</b> based on 6,380 reviews</span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n            </div></div>"
           }
         },
+        "text_iDgVz9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Transform intimate moments naturally without expensive therapy or equipment.</strong></p>"
+          }
+        },
         "liquid_tNQcdJ": {
           "type": "liquid",
           "settings": {
@@ -334,6 +340,7 @@
         "text_etDRqT",
         "title_bhRipk",
         "liquid_DDYcXP",
+        "text_iDgVz9",
         "liquid_tNQcdJ",
         "price_JikyDK",
         "buy_buttons_9xqqYd",
