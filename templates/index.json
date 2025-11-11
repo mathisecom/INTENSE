@@ -593,15 +593,63 @@
         "item_EU3zXy": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What makes the 27° angle special?",
+            "content": "<p>Through extensive testing, 27° was found to be the perfect elevation to reduce hip, back, and shoulder strain while aligning bodies for maximum comfort and pleasure.</p>"
+          }
+        },
+        "item_8wgi8P": {
+          "type": "item",
+          "settings": {
+            "title": "Will it work for older couples?",
+            "content": "<p>Yes. In fact, many of our happiest customers are 40+. The cushion is especially helpful for couples who’ve noticed stiffness, discomfort, or reduced flexibility.</p>"
+          }
+        },
+        "item_ktcgNk": {
+          "type": "item",
+          "settings": {
+            "title": "How long before we notice results?",
+            "content": "<p>Immediately. Most couples report a noticeable difference the very first night. The cushion doesn’t require practice—just place it on the bed and experience the comfort.</p>"
+          }
+        },
+        "item_bUDeed": {
+          "type": "item",
+          "settings": {
+            "title": "Is it discreetly packaged?",
+            "content": "<p>Absolutely. Every order is shipped in plain packaging with no mention of the product type—your privacy is 100% protected.</p>"
+          }
+        },
+        "item_fYeVEG": {
+          "type": "item",
+          "settings": {
+            "title": "What if it doesn’t work for us?",
+            "content": "<p>We offer a 30-day money-back guarantee. If you don’t feel the difference, just return it—no questions asked.</p>"
+          }
+        },
+        "item_ArFakx": {
+          "type": "item",
+          "settings": {
+            "title": "How durable is it?",
+            "content": "<p>Made with high-density memory foam, it holds its shape night after night. Most customers use it for years without any loss of support.</p>"
+          }
+        },
+        "item_3zcJEk": {
+          "type": "item",
+          "settings": {
+            "title": "Can I return the product?",
+            "content": "<p>Not happy with our product? Don’t worry! We have a<strong>60-day return policy</strong>to request for a full refund.<br/><br/>For more information about refund and returns please visit our refund policy.</p>"
           }
         }
       },
       "block_order": [
         "item_BzG4xR",
         "item_dQhEbw",
-        "item_EU3zXy"
+        "item_EU3zXy",
+        "item_8wgi8P",
+        "item_ktcgNk",
+        "item_bUDeed",
+        "item_fYeVEG",
+        "item_ArFakx",
+        "item_3zcJEk"
       ],
       "name": "FAQ",
       "settings": {
