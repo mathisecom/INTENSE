@@ -188,6 +188,7 @@
         },
         "item_PhYRei": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
             "column_size": "3",
