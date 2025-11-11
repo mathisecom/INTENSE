@@ -22,7 +22,7 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#880d1e",
             "title": "Free shipping",
             "content": ""
           }
@@ -35,7 +35,7 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#880d1e",
             "title": "Customer service",
             "content": ""
           }
@@ -48,7 +48,7 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#880d1e",
             "title": "Refer a friend",
             "content": ""
           }
@@ -61,7 +61,7 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#880d1e",
             "title": "Secure payment",
             "content": ""
           }
