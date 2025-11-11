@@ -721,7 +721,7 @@
         "table_row_Mfia8B": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Optimized Dosing",
+            "row_heading": "Economical",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -734,9 +734,8 @@
         },
         "table_row_JcC6R8": {
           "type": "table_row",
-          "disabled": true,
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Ultra-light",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -749,9 +748,8 @@
         },
         "table_row_DBm3dX": {
           "type": "table_row",
-          "disabled": true,
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "Removable and washable cover",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -764,9 +762,8 @@
         },
         "table_row_z4H7mt": {
           "type": "table_row",
-          "disabled": true,
           "settings": {
-            "row_heading": "Simple Ingredients",
+            "row_heading": "Easy to store discreetly",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -779,9 +776,8 @@
         },
         "table_row_WBxP48": {
           "type": "table_row",
-          "disabled": true,
           "settings": {
-            "row_heading": "3rd Party Tested",
+            "row_heading": "Perfect for relaxing, stretching, or reading",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
