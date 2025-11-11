@@ -524,6 +524,12 @@
     "rich_text_zWJAmH": {
       "type": "rich-text",
       "blocks": {
+        "subheading_Xt6kN7": {
+          "type": "subheading",
+          "settings": {
+            "text": "THEY SAY IT BETTER THAN WE DO."
+          }
+        },
         "heading_X7CJ8C": {
           "type": "heading",
           "settings": {
@@ -535,6 +541,7 @@
         }
       },
       "block_order": [
+        "subheading_Xt6kN7",
         "heading_X7CJ8C"
       ],
       "name": "Rich text",
