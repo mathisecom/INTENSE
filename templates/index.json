@@ -716,6 +716,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_6.png",
             "mobile_icon_width": 52,
             "icon_width": 52,
             "icon_background_type": "circle",
