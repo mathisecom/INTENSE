@@ -23,33 +23,33 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "#880d1e",
-            "title": "Free shipping",
+            "title": "Free Shipping",
             "content": ""
           }
         },
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-return",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "#880d1e",
-            "title": "Customer service",
+            "title": "30-Day Money-Back Guarantee",
             "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-lock",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "#880d1e",
-            "title": "Refer a friend",
+            "title": "Secure Payment",
             "content": ""
           }
         },
