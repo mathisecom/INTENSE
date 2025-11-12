@@ -389,6 +389,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_cAwFP9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_64363f7d55025c\"></div>"
+          }
+        },
         "liquid_3iFGEQ": {
           "type": "liquid",
           "settings": {
@@ -463,6 +469,7 @@
         "text_iDgVz9",
         "liquid_tNQcdJ",
         "price_JikyDK",
+        "liquid_cAwFP9",
         "liquid_3iFGEQ",
         "buy_buttons_9xqqYd",
         "liquid_TzfF4k",
