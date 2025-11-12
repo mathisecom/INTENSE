@@ -1151,8 +1151,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "Camille & Nathan",
-            "title": "Testimonial 1",
-            "content": "<p>We were starting to avoid intimacy because it became uncomfortable for her. Since using Liebora, that’s completely changed. She feels good again, confident and pain-free, and we’ve rediscovered real pleasure together.</p>"
+            "title": "Rediscovered Pleasure",
+            "content": "<p>We were starting to avoid intimacy because it became uncomfortable for her. Since using BeIntense, that’s completely changed. She feels good again, confident and pain-free, and we’ve rediscovered real pleasure together.</p>"
           }
         },
         "testimonial_CkxERF": {
@@ -1162,19 +1162,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Léa & Hugo",
-            "title": "Testimonial 2",
+            "title": "Truly Game-Changing",
             "content": "<p>Honestly, I didn’t believe a cushion could change anything… but it did. She enjoys every moment now, and I can feel her relax completely. It’s brought back passion and closeness we had lost.</p>"
-          }
-        },
-        "testimonial_Vfim8j": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Anaïs & Julien",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         },
         "testimonial_rL3HCm": {
@@ -1184,7 +1173,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "title": "Saved Our Intimacy",
             "content": "<p>We were struggling for months, thinking it was just something we had to live with. BeIntense changed everything, no more pain, no more frustration, just connection and pleasure. It saved our intimacy.</p>"
           }
         },
@@ -1195,7 +1184,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Sarah & Maxime",
-            "title": "Testimonial 3",
+            "title": "Comfort & Desire",
             "content": "<p>She used to tense up every time, afraid of the pain. Now she smiles, laughs, and asks for more. It feels amazing to see her enjoy it, it brought us even closer.</p>"
           }
         },
@@ -1206,7 +1195,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Chloé & Valentin",
-            "title": "Testimonial 3",
+            "title": "Excitement Restored",
             "content": "<p>After years together, our intimacy felt routine. BeIntense made it exciting again, she feels new sensations, I feel her passion, and every time feels special. It’s been a real game changer for us.</p>"
           }
         }
@@ -1214,7 +1203,6 @@
       "block_order": [
         "testimonial_wrNEtB",
         "testimonial_CkxERF",
-        "testimonial_Vfim8j",
         "testimonial_rL3HCm",
         "testimonial_GTrUU7",
         "testimonial_eYtzWn"
