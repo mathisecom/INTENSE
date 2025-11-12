@@ -1298,7 +1298,7 @@
           "type": "item",
           "settings": {
             "title": "Can I return the product?",
-            "content": "<p>Not happy with our product? Don’t worry! We have a<strong>60-day return policy</strong>to request for a full refund.<br/><br/>For more information about refund and returns please visit our refund policy.</p>"
+            "content": "<p>Not happy with our product? Don’t worry! We have a <strong>30-day return policy</strong>to request for a full refund.<br/><br/>For more information about refund and returns please visit our refund policy.</p>"
           }
         }
       },
