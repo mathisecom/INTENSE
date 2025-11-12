@@ -55,6 +55,7 @@
         },
         "payment": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-lock",
             "mobile_icon_width": 36,
